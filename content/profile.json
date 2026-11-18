@@ -3,8 +3,8 @@
   "name": "HiddenCry",
   "handle": "HiddenCry",
   "role": "Security researcher",
-  "statement": "Findings, written down after the fix.",
-  "summary": "I research security flaws in open-source web applications and publish them once maintainers have a patch, or once the agreed disclosure window has closed. This site is the public record: the CVE, the affected versions, the weakness, and the remediation.",
+  "statement": "Security research, one coordinated disclosure at a time.",
+  "summary": "Discover security flaws in applications and manage responsible disclosure processes in alignment with vendor remediation timelines.",
   "focus": [
     "Web application security",
     "Coordinated disclosure",
@@ -27,15 +27,6 @@
       "id": "whoami",
       "title": "The work",
       "blocks": [
-        {
-          "type": "paragraph",
-          "content": [
-            {
-              "type": "text",
-              "value": "A record appears here only after the maintainer has had a private report and a real chance to ship a fix. The public page is the last step."
-            }
-          ]
-        },
         {
           "type": "paragraph",
           "content": [

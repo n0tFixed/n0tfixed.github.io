@@ -11,7 +11,7 @@ const profile: Profile = {
   name: 'HiddenCry',
   handle: 'HiddenCry',
   role: 'Security researcher',
-  statement: 'Findings, written down after the fix.',
+  statement: 'Security research, one coordinated disclosure at a time.',
   summary: 'Archive',
   focus: ['Web'],
   links: [],
